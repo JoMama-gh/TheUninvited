@@ -8,8 +8,6 @@ public class GuestData : ScriptableObject {
 
 
 
-public int weaponType;
-public int nameType;
 
     // dialog data? events? etc
 

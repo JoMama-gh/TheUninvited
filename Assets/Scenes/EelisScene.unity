@@ -1316,6 +1316,7 @@ GameObject:
   - component: {fileID: 1630489737}
   - component: {fileID: 1630489739}
   - component: {fileID: 1630489738}
+  - component: {fileID: 1630489740}
   m_Layer: 5
   m_Name: Verification
   m_TagString: Untagged
@@ -1381,6 +1382,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1630489736}
   m_CullTransparentMesh: 1
+--- !u!114 &1630489740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630489736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2ba7e74d40c05f4580a1ab1af39dddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
 --- !u!1 &1668169237
 GameObject:
   m_ObjectHideFlags: 0
