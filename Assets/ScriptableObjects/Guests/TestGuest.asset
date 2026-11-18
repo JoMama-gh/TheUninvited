@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: TestGuest
   m_EditorClassIdentifier: Assembly-CSharp::GuestData
   name: Joe
+  region: Kingsfield
   spriteMain: {fileID: 2544839637854227290, guid: e47a9aee7bae12449b80fcb902614951, type: 3}
